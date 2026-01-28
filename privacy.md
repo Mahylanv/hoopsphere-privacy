@@ -37,4 +37,4 @@ Vous pouvez demander la suppression de votre compte et de vos données.
 
 ## Contact
 Pour toute question :
-**contact@hoopsphere.app** (à adapter si besoin)
+**contact@hoopsphere.app**
